@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - Background Changer
 
-Submitted by: **Your Name Here**
+Submitted by: **Yaghyesh Ghimire**
 
-**Name of your app** is an app that... [TODO] 
+**Background Changer** is an app that changes the background of a basic banner on the screen to a random colour at the press of a button. 
 
-Time spent: **X** hours spent in total
+Time spent: **1.5** hours spent in total
 
 ## Required Features
 
@@ -21,13 +21,32 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+### 1. Instagram:
+
+- [ ] Swipe up on a story to react.
+- [ ] Double tap to like.
+
+### 2. Splitwise:
+
+- [ ] Settle up debts.
+- [ ] Add expense.
+
+### 3. Google Maps:
+
+- [ ] Pinch to zoom.
+- [ ] drag and drop the street view icon.
+- [ ] Traffic congestion indicator.
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+There was a problem I faced regarding the connection of the UI to the logic where there was a lost connection and there were multiple connections. I had to go back and delete the unnecessary connections manually.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Yaghyesh Ghimire]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
