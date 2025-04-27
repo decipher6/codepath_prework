@@ -15,9 +15,9 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<a href = "https://youtube.com/shorts/BmY4eN-_2wo">
+[<a href = "https://youtube.com/shorts/BmY4eN-_2wo">
  <img style = "max-width:300px;" src="https://youtube.com/shorts/BmY4eN-_2wo">
-</a>
+</a>](https://github.com/user-attachments/assets/11ca168f-37c8-4c46-b46a-4af5f0f9a837)
 
 ## App Brainstorming (Step 4)
 
